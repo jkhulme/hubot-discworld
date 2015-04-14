@@ -1,0 +1,31 @@
+{
+  "name": "hubot-discworld",
+  "version": "0.1.0",
+
+  "author": "James Hulme",
+
+  "keywords": [
+    "hubot",
+    "plugin",
+    "scripts",
+    "terry pratchett",
+    "bot",
+    "discworld",
+    "ook"
+  ],
+
+  "description": "'hubot ook' and hubot will give you a terry pratchett / discworld quote for you to enjoy.",
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/jkhulme/hubot_scripts"
+  },
+
+  "dependencies": {
+  }
+}
